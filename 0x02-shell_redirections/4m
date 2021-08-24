@@ -1,0 +1,15 @@
+total 16
+drwxr-xr-x 1 Think 197121  0 Aug 24 14:24 ./
+drwxr-xr-x 1 Think 197121  0 Aug 24 08:48 ../
+-rwxr-xr-x 1 Think 197121 36 Aug 24 09:01 0-hello_world*
+-rwxr-xr-x 1 Think 197121 31 Aug 24 08:51 1-confused_smiley*
+-rwxr-xr-x 1 Think 197121 28 Aug 24 08:54 2-hellofile*
+-rwxr-xr-x 1 Think 197121 39 Aug 24 09:03 3-twofiles*
+-rwxr-xr-x 1 Think 197121 35 Aug 24 09:04 4-lastlines*
+-rw-r--r-- 1 Think 197121  0 Aug 24 14:24 4m
+-rwxr-xr-x 1 Think 197121 35 Aug 24 09:35 5-firstlines*
+-rw-r--r-- 1 Think 197121  0 Aug 24 14:16 5mim
+-rwxr-xr-x 1 Think 197121 25 Aug 24 14:03 6-third_line*
+-rwxr-xr-x 1 Think 197121 74 Aug 24 14:10 7-file*
+-rw-r--r-- 1 Think 197121  0 Aug 24 14:15 hello
+-rw-r--r-- 1 Think 197121  0 Aug 24 14:15 touch
