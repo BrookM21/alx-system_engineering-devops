@@ -1,2 +1,2 @@
 #!/bin/bash
-$>sed -n 2p iacta
+$>awk '{if(NR==2) print $0} iacta
